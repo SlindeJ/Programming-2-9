@@ -6,4 +6,4 @@ while (num2 > 0):
   num1 = num2
   num2 = temp
   
-print("The GCD is ", str(num1))    #??? I have no idea why this works
+print("The GCD is ", str(num1))    #??? I have no idea why this works, maybe because num1 = temp? 
