@@ -36,7 +36,7 @@ namespace Lang85cForm
 			double num2 = number - 165.0;
 			double num3 = num2 / 100;
 			double months = Math.Round(num3);
-			double day = (num3 - months) * 100;
+			double day = Math.Round((num3 - months) * 100);
 			label4.Text = "Your birthday is: " + months.ToString() + "/" + day.ToString();
 		}
 		
