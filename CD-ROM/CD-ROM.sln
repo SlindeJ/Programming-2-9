@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "CD-ROM", "CD-ROM\CD-ROM.pyproj", "{A1D68BF4-125D-4219-90DE-1FC070BF6279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D68BF4-125D-4219-90DE-1FC070BF6279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D68BF4-125D-4219-90DE-1FC070BF6279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D68BF4-125D-4219-90DE-1FC070BF6279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D68BF4-125D-4219-90DE-1FC070BF6279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

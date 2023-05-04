@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LP4-1Console", "LP4-1Console.csproj", "{753FDCC0-B867-4D21-AA3C-9E1FB37504C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{753FDCC0-B867-4D21-AA3C-9E1FB37504C2}.Debug|x86.Build.0 = Debug|x86
+		{753FDCC0-B867-4D21-AA3C-9E1FB37504C2}.Debug|x86.ActiveCfg = Debug|x86
+		{753FDCC0-B867-4D21-AA3C-9E1FB37504C2}.Release|x86.Build.0 = Release|x86
+		{753FDCC0-B867-4D21-AA3C-9E1FB37504C2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
