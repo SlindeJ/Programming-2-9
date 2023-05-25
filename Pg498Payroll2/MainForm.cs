@@ -17,9 +17,9 @@ namespace Pg498Payroll
 	/// <summary>
 	/// Description of MainForm.
 	/// </summary>
-	public partial class Form1 : Form
+	public partial class MainForm : Form
 	{
-		public Form1()
+		public MainForm()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
@@ -29,10 +29,10 @@ namespace Pg498Payroll
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
+			const decimal decHOURLY_PAY_RATE = 6.0m;
+			const int intMAX_EMPLOYEES = 5;
+			// "const" prevents us from ever changing the value
 		}
-		const decimal decHOURLY_PAY_RATE = 6.0m;
-		const int intMAX_EMPLOYEES = 5;
-		// "const" prevents us from ever changing the value
 		void Button1Click(object sender, EventArgs e)
 		{
 			int[] intHours = new int[intMAX_EMPLOYEES];

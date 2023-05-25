@@ -1,15 +1,15 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: Public Library
- * Date: 5/13/2023
- * Time: 3:00 PM
+ * User: slinde.j
+ * Date: 5/25/2023
+ * Time: 3:44 PM
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
 using System.Windows.Forms;
 
-namespace Pg498Payroll
+namespace Pg498Payroll2
 {
 	/// <summary>
 	/// Class with program entry point.
@@ -24,7 +24,7 @@ namespace Pg498Payroll
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new Form1());
+			Application.Run(new MainForm());
 		}
 		
 	}
